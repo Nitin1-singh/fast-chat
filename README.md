@@ -55,7 +55,7 @@
 <a id="layout"></a>
 ## Layout of the project
   * Sign in Page
-  ![Image]('./public/img/readme/img-1.PNG')
+  ![signinPage]("/public/img/readme/img1.png")
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
