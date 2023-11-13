@@ -54,8 +54,25 @@
 
 <a id="layout"></a>
 ## Layout of the project
+  All info is hided on purpose for security and privacy reason
   * Sign in Page
-  ![signinPage]("/public/img/readme/img1.png")
+  <div>
+    <img src="public/img/readme/img1.png" height="400px" width="450px" alt="sign in imae" />
+  </div>
+  <div>
+    <img src="public/img/readme/img2.png" height="400px" width="450px" alt="sign in image" />
+  </div>
+  * Main page
+  <div>
+    <img src="public/img/readme/img3.png" height="400px" width="450px" alt="sign in image" />
+  </div>
+  * 1-1 chat
+   <div>
+    <img src="public/img/readme/img4.png" height="400px" width="450px" alt="sign in image" />
+  </div>
+   <div>
+    <img src="public/img/readme/img5.png" height="400px" width="450px" alt="sign in image" />
+  </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
