@@ -1,0 +1,19 @@
+.bg {
+    background-color: #111b21;
+    height: 100vh;
+}
+.btn {
+    border: none;
+    border-radius: 10px;
+    background-color: #00A884;
+}
+.pTag {
+    font-size: 1.5rem;
+    color: #0f1d27;
+}
+.img {
+    filter: invert(14%) sepia(14%) saturate(997%) hue-rotate(158deg) brightness(94%) contrast(91%);
+}
+.btn:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,68 @@
+.bg {
+    background-color: #202C33;
+    color: #fff;
+}
+.bg2 {
+    background-color: #111B21;
+    min-height: 92vh;
+    color: #fff;
+}
+
+.liDiv:hover {
+    background-color: #2A3942;
+}
+.liTag {
+    list-style-type: none;
+}
+.liTag:hover {
+    cursor: pointer;
+}
+.box {
+    background-color: #222E35;
+    color: white;
+}
+.chat {
+    min-height: 84vh;
+}
+.sendDiv > div > input {
+    width: 95%;
+    border: none;
+    padding: 0.7rem 0.7rem;
+    border-radius: 10px;
+    background-color: #2A3942;
+    color: white;
+}
+.sendDiv > div > input:focus {
+    outline: none;
+}
+.sendDiv > div > img {
+    filter: invert(51%) sepia(15%) saturate(313%) hue-rotate(158deg) brightness(102%) contrast(92%);
+}
+.sendDiv  > div > img:hover {
+    cursor: pointer;
+}
+.chatTag {
+    list-style-type: none;
+    min-width: 4rem;
+    word-break:break-all;
+    width: fit-content;
+    background-color: #005C4B;
+    margin-top: 1rem;
+    padding: 0.5rem 0.3rem;
+    border-radius: 0.3rem;
+}
+.otherChatTag {
+    list-style-type: none;
+    min-width: 4rem;
+    width: fit-content;
+    background-color: #2a3f4b;
+    margin-top: 1rem;
+    padding: 0.5rem 0.3rem;
+    border-radius: 0.3rem;
+}
+.logout {
+    filter: invert(6%) sepia(7%) saturate(3655%) hue-rotate(159deg) brightness(92%) contrast(91%)
+}
+.logout:hover {
+    cursor: pointer;
+}
