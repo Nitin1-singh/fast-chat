@@ -1,36 +1,167 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
 
+## Fast Chat
+<!-- PROJECT Summary -->
+<br />
+
+<div align="center">
+  <p align="center">
+    An Chatting app built with next js and firebase
+    <br/>
+    <a href="https://github.com/Nitin1-singh/fast-chat/issues">Report Bug</a>
+    .
+    <a href="https://github.com/Nitin1-singh/fast-chat/issues">Request Feature</a>
+  </p>
+</div>
+<br />
+<!-- PROJECT SHIELDS -->
+<div align="center">
+
+  ![GitHub contributors](https://img.shields.io/github/contributors/Nitin1-singh/portfolio-v1)
+  ![GitHub forks](https://img.shields.io/github/forks/Nitin1-singh/portfolio-v1)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Nitin1-singh/portfolio-v1)
+  ![GitHub issues](https://img.shields.io/github/issues/Nitin1-singh/portfolio-v1)
+  ![License](https://img.shields.io/badge/license-MIT-blue)
+  ![Linkedin](https://img.shields.io/badge/Linkedin-grey?logo=linkedin)
+</div>
+
+<br />
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#layout">Layout of the project</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+<a id="layout"></a>
+## Layout of the project
+  * Sign in Page
+  ![Image]('./public/img/readme/img-1.PNG')
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Hello, this is version 1 of my online Chating app, which is now accessible on GitHub. It is an inital model of my app for 2023.  
+
+My Chat App i.e fast chat current feature:
+
+* Responsive for laptop only  
+* Sign in with google option 
+* Secure
+* Fast and responsible
+* 1 to 1 Chat
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
+
+The tools I employed for my portfolio
+
+* ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+* ![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3)
+* ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5)
+* ![Js](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript)
+* ![firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
+* ![github](https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=github)
+* ![node](https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=nodedotjs)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Tour of the App
+
+
+
+<!-- GETTING STARTED -->
 ## Getting Started
 
-First, run the development server:
+To duplicate my work, follow the guidelines listed below.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The list of software you need:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+* Latest Version of Node
+* Latest Version of Git
+* An account on firebase
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Installation
 
-## Learn More
+1. Install node in your desktop  
+2. Clone the repo
+   ```sh
+   git clone https://github.com/Nitin1-singh/portfolio-v1.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Edit the following in .env 
+    ```sh
+    NEXT_PUBLIC_FIREBASE_API_KEY="data"    NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="data"
+    NEXT_PUBLIC_FIREBASE_PROJECT_ID="data"
+    NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="data"
+    NEXT_PUBLIC_FIREBASE_SENDER_ID="data"
+    NEXT_PUBLIC_FIREBASE_APP_ID="data"
+    NEXT_PUBLIC_FIREBASE_MESAURNMENT_ID="data"
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- CONTRIBUTING -->
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Deploy on Vercel
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Linkden - [Linkden](https://www.linkedin.com/in/nitin-singh-negi-9b6a95297/)
+
+Project Link- [github](https://github.com/Nitin1-singh/fast-chat)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
