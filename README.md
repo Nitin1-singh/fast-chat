@@ -18,10 +18,10 @@
 <!-- PROJECT SHIELDS -->
 <div align="center">
 
-  ![GitHub contributors](https://img.shields.io/github/contributors/Nitin1-singh/portfolio-v1)
-  ![GitHub forks](https://img.shields.io/github/forks/Nitin1-singh/portfolio-v1)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Nitin1-singh/portfolio-v1)
-  ![GitHub issues](https://img.shields.io/github/issues/Nitin1-singh/portfolio-v1)
+  ![GitHub contributors](https://img.shields.io/github/contributors/Nitin1-singh/fast-chat)
+  ![GitHub forks](https://img.shields.io/github/forks/Nitin1-singh/fast-chat)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Nitin1-singh/fast-chat)
+  ![GitHub issues](https://img.shields.io/github/issues/Nitin1-singh/fast-chat)
   ![License](https://img.shields.io/badge/license-MIT-blue)
   ![Linkedin](https://img.shields.io/badge/Linkedin-grey?logo=linkedin)
 </div>
