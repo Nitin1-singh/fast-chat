@@ -57,7 +57,7 @@
   All info is hided in below images on purpose for security and privacy reason
   * Sign in Page
   <div>
-    ![img-1](https://github.com/Nitin1-singh/fast-chat/assets/148739561/eb0d3dfb-a2f2-45c4-a9cb-c698c963857c)
+    ![!img1](https://github.com/Nitin1-singh/fast-chat/assets/148739561/eb0d3dfb-a2f2-45c4-a9cb-c698c963857c)
   </div>
   <div>
     <img src="public/img/readme/img2.png" height="400px" width="450px" alt="sign in image" />
