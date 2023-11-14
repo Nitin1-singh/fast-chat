@@ -52,6 +52,22 @@
   </ol>
 </details>
 
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Hello, this is version 1 of my online Chating app, which is now accessible on GitHub. It is an inital model of my app for 2023.  
+
+My Chat App i.e fast chat current feature:
+
+* Responsive for laptop only  
+* Sign in with google option 
+* Secure
+* Fast and responsible
+* 1 to 1 Chat
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <a id="layout"></a>
 ## Layout of the project
   All info is hided in below images on purpose for security and privacy reason
@@ -68,19 +84,6 @@
    
    ![img-4](https://github.com/Nitin1-singh/fast-chat/assets/148739561/beaaa588-e6b8-464f-9015-5efaaefd6936)
    ![img-5](https://github.com/Nitin1-singh/fast-chat/assets/148739561/3e546a00-72ae-4f28-9e12-0a0ca77cbbdd)
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-Hello, this is version 1 of my online Chating app, which is now accessible on GitHub. It is an inital model of my app for 2023.  
-
-My Chat App i.e fast chat current feature:
-
-* Responsive for laptop only  
-* Sign in with google option 
-* Secure
-* Fast and responsible
-* 1 to 1 Chat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
