@@ -57,7 +57,7 @@
   All info is hided in below images on purpose for security and privacy reason
   * Sign in Page
   <div>
-    <img src="/public/img/readme/img1.png" height="400px" width="450px" alt="sign in image" />
+    <img src="./public/img/readme/img1.PNG" height="400px" width="450px" alt="sign in image" />
   </div>
   <div>
     <img src="public/img/readme/img2.png" height="400px" width="450px" alt="sign in image" />
