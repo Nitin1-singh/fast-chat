@@ -102,8 +102,6 @@ The tools I employed for my portfolio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tour of the App
-
 
 
 <!-- GETTING STARTED -->
