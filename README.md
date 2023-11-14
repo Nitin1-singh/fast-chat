@@ -57,22 +57,17 @@
   All info is hided in below images on purpose for security and privacy reason
   * Sign in Page
 
-
     ![img](https://github.com/Nitin1-singh/fast-chat/assets/148739561/eb0d3dfb-a2f2-45c4-a9cb-c698c963857c)
-  <div>
-    <img src="public/img/readme/img2.png" height="400px" width="450px" alt="sign in image" />
-  </div>
+    ![img-2](https://github.com/Nitin1-singh/fast-chat/assets/148739561/8f08ee78-f071-4dd1-a112-172afafe0855)
+    
   * Main page
-  <div>
-    <img src="public/img/readme/img3.png" height="400px" width="450px" alt="sign in image" />
-  </div>
+  
+  ![img-3](https://github.com/Nitin1-singh/fast-chat/assets/148739561/7bfc2e9a-4c52-438b-97a1-b2e6c93f34ef)
+  
   * 1-1 chat
-   <div>
-    <img src="public/img/readme/img4.png" height="400px" width="450px" alt="sign in image" />
-  </div>
-   <div>
-    <img src="public/img/readme/img5.png" height="400px" width="450px" alt="sign in image" />
-  </div>
+   
+   ![img-4](https://github.com/Nitin1-singh/fast-chat/assets/148739561/beaaa588-e6b8-464f-9015-5efaaefd6936)
+   ![img-5](https://github.com/Nitin1-singh/fast-chat/assets/148739561/3e546a00-72ae-4f28-9e12-0a0ca77cbbdd)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
